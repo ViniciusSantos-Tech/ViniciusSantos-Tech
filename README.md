@@ -39,9 +39,8 @@
 
 ### 🌟 *Projeto em Destaque*
 
-**[Monitor de Preços - Automação Completa](https://github.com/ViniciusSantos-Tech/monitor-precos)**
-- ✅ *Scraping* com Selenium
-- ✅ *Interface* com Tkinter  
+**[Monitor de Preços - Automação Completa](https://github.com/ViniciusSantos-Tech/Web-Scraping-g1-news)**
+- ✅ *Scraping* com Selenium 
 - ✅ *Exportação* para Excel
 - ✅ *Notificações* via WhatsApp
 - ✅ *Tratamento* de erros com Try/Except
