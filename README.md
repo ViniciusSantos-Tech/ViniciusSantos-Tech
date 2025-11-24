@@ -39,12 +39,14 @@
 
 ### 🌟 *Projeto em Destaque*
 
-**[Monitor de Preços - Automação Completa](https://github.com/ViniciusSantos-Tech/Web-Scraping-g1-news)**
-- ✅ *Scraping* com Selenium 
-- ✅ *Exportação* para Excel
-- ✅ *Notificações* via WhatsApp
-- ✅ *Tratamento* de erros com Try/Except
-
+**[Chat Bot - Automação Completa](https://github.com/ViniciusSantos-Tech/terminal-chatgpt-python)**
+- ✅ Interface Gráfica com CustomTkinter
+- ✅ API OpenAI GPT-4o Mini
+- ✅ Sistema de Histórico de conversas
+- ✅ Tratamento de Erros com Try/Except
+- ✅ Atalhos de Teclado (Enter para enviar)
+- ✅ Modo Escuro automático
+- ✅ Instruções Customizadas para o AI
 ---
 
 ### 📫 *Como me encontrar*
