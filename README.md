@@ -2,9 +2,9 @@
 <h3 align="center">Desenvolvedor Python | 15 anos | Foco em Automação e Web Scraping</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ViniciusSantos-Tech&label=Profile%20views&color=0e75b6&style=flat" alt="ViniciusSantos-Tech" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusSantos-Tech&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusSantos-Tech&theme=dark&hide_border=true" alt="streak" />
 </p>
-
 ---
 
 ### 🚀 *Sobre Mim*
@@ -23,7 +23,8 @@
 | *Linguagens* | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | *Web Scraping* | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) |
 | *Análise de Dados* | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
-| *Interfaces* | ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| *Interfaces* | ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
+| *Visualização de Dados*| ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 | *Ferramentas* | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ---
