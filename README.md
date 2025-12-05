@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python;15+anos;Automação+%26+Web+Scraping;Construindo+soluções+reais" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python;Automação+%26+Web+Scraping;Construindo+soluções+reais" />
 </h3>
 
 ---
