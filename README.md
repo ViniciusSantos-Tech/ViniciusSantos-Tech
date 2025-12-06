@@ -1,4 +1,4 @@
-<!-- BANNER ANIMADO -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:000000&height=200&section=header&text=Vinícius%20Santos&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -8,7 +8,7 @@
 </h3>
 
 ---
- ## **👋 Olá!** Sou um desenvolvedor Python de 15 anos com paixão por transformar problemas em código. Comecei programando por curiosidade e hoje já construí mais de 30 projetos práticos, focando em **automação web, análise de dados e criação de ferramentas úteis**.
+ ## **👋 Olá!** Sou um desenvolvedor Python com paixão por transformar problemas em código. Comecei programando por curiosidade e hoje já construí mais de 30 projetos práticos, focando em **automação web, análise de dados e criação de ferramentas úteis**.
 
 ### 🧠 SOBRE MIM
 
@@ -16,12 +16,9 @@
 > ## **Formação:** Inglês – BRASAS (Cursando)  
 > ## **Aprendendo:** Selenium, Pandas e Automação Web  
 > ## **Disponível:** Freelas de automação e scraping  
-> ## **Diferencial:** 15 anos | 34 projetos GitHub | Autodidata
-
+> ## **Diferencial:** 15 anos | 35+ projetos GitHub | Autodidata
 ---
-
 ## ⚙️ Tecnologias
-
 
   <img src="https://skillicons.dev/icons?i=python,selenium,git,vscode,html,css&theme=dark" />
 </p>
@@ -36,16 +33,17 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
 </p>
 
----
 <h2 align="center">🚀 My GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniciusSantos-Tech&theme=github_dark" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniciusSantos-Tech&theme=github_dark" width="45%" />
+
+#  🟦Github Contribution Graph🟦
+
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=ViniciusSantos-Tech" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusSantos-Tech&theme=react-dark&hide_border=true" />
 </p>
----
 
 ## 🤖 Projeto em Destaque
 
