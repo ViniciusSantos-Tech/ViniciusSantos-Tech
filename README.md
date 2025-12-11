@@ -16,7 +16,7 @@
 > ## **Formação:** Inglês – BRASAS (Cursando)  
 > ## **Aprendendo:** Selenium, Pandas e Automação Web  
 > ## **Disponível:** Freelas de automação e scraping  
-> ## **Diferencial:** 15 anos | 35+ projetos GitHub | Autodidata
+> ## **Diferencial:**35+ projetos GitHub | Autodidata
 ---
 ## ⚙️ Tecnologias
 
