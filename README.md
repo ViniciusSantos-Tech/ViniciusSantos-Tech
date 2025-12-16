@@ -4,21 +4,22 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python;Automação+%26+Web+Scraping;Construindo+soluções+reais" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=600&lines=Python+Developer;Automation+%26+Web+Scraping;Building+real+solutions" />
 </h3>
 
 ---
- ## **👋 Olá!** Sou um desenvolvedor Python com paixão por transformar problemas em código. Comecei programando por curiosidade e hoje já construí mais de 30 projetos práticos, focando em **automação web, análise de dados e criação de ferramentas úteis**.
+ ## 🔹**👋 Hello!** I’m a Python developer with a passion for turning problems into code. I started programming out of curiosity and have since built over 30 practical projects, focusing on **web automation, data analysis, and creating useful tools**.
 
-### 🧠 SOBRE MIM
 
-> ## **Objetivo:** Buscando minha primeira oportunidade como estagiário em desenvolvimento Python  
-> ## **Formação:** Inglês – BRASAS (Cursando)  
-> ## **Aprendendo:** Selenium, Pandas e Automação Web  
-> ## **Disponível:** Freelas de automação e scraping  
-> ## **Diferencial:**35+ projetos GitHub | Autodidata
+### 🧠 ABOUT ME
+
+> ## **Goal:** Seeking my first opportunity as a Python development intern  
+> ## **Education:** English – BRASAS (In progress)  
+> ## **Learning:** Selenium, Pandas, and Web Automation  
+> ## **Available:** Automation and scraping freelance work  
+> ## **Differential:** 35+ GitHub projects | Self-taught
 ---
-## ⚙️ Tecnologias
+## ⚙️ Technologies
 
   <img src="https://skillicons.dev/icons?i=python,selenium,git,vscode,html,css&theme=dark" />
 </p>
@@ -45,30 +46,31 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusSantos-Tech&theme=react-dark&hide_border=true" />
 </p>
 
-## 🤖 Projeto em Destaque
+## 🤖 Featured Project
 
-### 🔥 Chat Bot – Automação Completa  
+### 🔥 Chat Bot – Full Automation
+  
 🔗 https://github.com/ViniciusSantos-Tech/terminal-chatgpt-python  
 
-## ✔ Interface Gráfica com CustomTkinter  
-## ✔ Integração com OpenAI (GPT-4o Mini)  
-## ✔ Histórico de Conversas  
-## ✔ Atalhos de Teclado  
-## ✔ Modo Escuro Automático  
-## ✔ Tratamento de erros  
-## **✔ Instruções customizadas para IA** 
+## ✔ Graphical Interface with CustomTkinter  
+## ✔ Integration with OpenAI (GPT-4o Mini)  
+## ✔ Conversation History  
+## ✔ Keyboard Shortcuts  
+## ✔ Automatic Dark Mode  
+## ✔ Error Handling  
+## **✔ Custom AI Instructions**
 
 ---
 
-## 🎯 Metas 2026
+## 🎯 Goals for 2026
 
-- [ ] Primeiro estágio em desenvolvimento  
-- [ ] Mais de 100 projetos no GitHub  
-- [ ] Dominar Scrapy e APIs REST  
+- [ ] First internship in development  
+- [ ] Over 100 projects on GitHub  
+- [ ] Master Scrapy and REST APIs  
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 📧 **vinobeacoup56@gmail.com**
 
@@ -79,6 +81,6 @@
 </p>
 
 <p align="center">
-  <b>“Construindo meu futuro uma linha de código por vez.”</b> 🚀
+  <b>“Building my future one line of code at a time.”</b>
 </p>
 
