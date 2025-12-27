@@ -15,13 +15,13 @@
 
 > ## **Goal:** Seeking my first opportunity as a Python development intern  
 > ## **Education:** English – BRASAS (In progress)  
-> ## **Learning:** Selenium, Pandas, and Web Automation  
+> ## **Learning:** Selenium, Pandas, SQL and Web Automation  
 > ## **Available:** Automation and scraping freelance work  
 > ## **Differential:** 35+ GitHub projects | Self-taught
 ---
 ## ⚙️ Technologies
 
-  <img src="https://skillicons.dev/icons?i=python,selenium,git,vscode,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,selenium,git,vscode,html,css&theme=dark" />
 </p>
 
 <p>
@@ -32,6 +32,9 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="40"/>
+
 </p>
 
 <h2 align="center">🚀 My GitHub Analytics</h2>
