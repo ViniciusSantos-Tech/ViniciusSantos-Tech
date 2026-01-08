@@ -15,9 +15,8 @@
 
 > ## **Goal:** Seeking my first opportunity as a Python development intern  
 > ## **Education:** English – BRASAS (In progress)  
-> ## **Learning:** Selenium, Pandas, SQL and Web Automation  
+> ## **Learning:** Selenium, Pandas, SQL and FastAPI 
 > ## **Available:** Automation and scraping freelance work  
-> ## **Differential:** 35+ GitHub projects | Self-taught
 ---
 ## ⚙️ Technologies
 
@@ -50,19 +49,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusSantos-Tech&theme=react-dark&hide_border=true" />
 </p>
 
-## 🤖 Featured Project
+## 🏦 Featured Project
 
-### 🔥 Chat Bot – Full Automation
+### 💰 Banking REST API – Secure Financial System
   
-🔗 https://github.com/ViniciusSantos-Tech/terminal-chatgpt-python  
+🔗 https://github.com/ViniciusSantos-Tech/python-bank-system
 
-## ✔ Graphical Interface with CustomTkinter  
-## ✔ Integration with OpenAI (GPT-4o Mini)  
-## ✔ Conversation History  
-## ✔ Keyboard Shortcuts  
-## ✔ Automatic Dark Mode  
-## ✔ Error Handling  
-## **✔ Custom AI Instructions**
+## ✔ High-Performance Backend with FastAPI
+## ✔ Relational Database with SQLite3
+## ✔ Secure Password Hashing (SHA-256)
+## ✔ Automated Transaction History
+## ✔ Real-time Balance Validation
+## ✔ Full CRUD for Account Management
+## ✔ Auto-generated API Documentation (Swagger UI)
 
 ---
 
@@ -84,7 +83,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFFF&height=120&section=footer"/>
 </p>
 
-<p align="center">
-  <b>“Building my future one line of code at a time.”</b>
-</p>
 
