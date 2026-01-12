@@ -49,20 +49,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusSantos-Tech&theme=react-dark&hide_border=true" />
 </p>
 
-## 🏦 Featured Project
+##  Featured Project
 
-### 💰 Banking REST API – Secure Financial System
+### 💰 Banking REST API – Enterprise Financial System
   
-🔗 https://github.com/ViniciusSantos-Tech/python-bank-system
+🔗 [https://github.com/ViniciusSantos-Tech/python-bank-system](https://github.com/ViniciusSantos-Tech/python-bank-system)
 
-## ✔ High-Performance Backend with FastAPI
-## ✔ Relational Database with SQLite3
-## ✔ Secure Password Hashing (SHA-256)
-## ✔ Automated Transaction History
-## ✔ Real-time Balance Validation
-## ✔ Full CRUD for Account Management
-## ✔ Auto-generated API Documentation (Swagger UI)
-
+## ✔ High-Performance Backend with FastAPI & Python 3.13+
+## ✔ Enterprise Database with PostgreSQL & SQLAlchemy ORM
+## ✔ Advanced Financial Precision (Decimal/Numeric Logic)
+## ✔ Secure Credential Hashing (SHA-256)
+## ✔ Atomic Transaction Engine (Debit/Credit Integrity)
+## ✔ Automated Audit Trail (Full Transaction History)
+## ✔ Schema-based Data Organization (Bank Schema)
+## ✔ Professional Documentation (Google-Style Docstrings & Swagger UI)
 ---
 
 ## 🎯 Goals for 2026
