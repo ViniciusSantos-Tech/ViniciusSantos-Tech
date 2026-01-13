@@ -67,15 +67,14 @@
 
 ## 🎯 Goals for 2026
 
-- [ ] First internship in development  
-- [ ] Over 100 projects on GitHub  
-- [ ] Master Scrapy and REST APIs  
+### First internship in development  
+
 
 ---
 
 ## 📫 Contact
 
-📧 **vinobeacoup56@gmail.com**
+📧 **vinciussnts@gmail.com**
 
 ---
 
