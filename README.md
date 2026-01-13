@@ -74,7 +74,7 @@
 
 ## 📫 Contact
 
-📧 **vinciussnts@gmail.com**
+📧 **vinciussntsdev@gmail.com**
 
 ---
 
